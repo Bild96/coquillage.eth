@@ -32,7 +32,7 @@ export default function App() {
         </div>
 
         <div className="content">
-          <h1>Yearn SDK Integration Examples</h1>
+          <h1>🐚 coquillahe.eth</h1>
 
           <Routes>
             <Route exact path="/" element={<Home />} />

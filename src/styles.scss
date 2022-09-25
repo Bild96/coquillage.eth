@@ -1,6 +1,6 @@
 :root {
-  --color-background: rgb(224, 234, 255);
-  --color-primary: rgb(6, 87, 249);
+  --color-background: #f6e58d;
+  --color-primary: #4834d4;
 }
 
 * {
@@ -62,7 +62,7 @@ button {
 
 .sidenav {
   padding: 17px;
-  background: #f4f7fb;
+  background: #535c68;
   flex-shrink: 0;
 
   ul {
