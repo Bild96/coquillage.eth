@@ -1,22 +1,14 @@
-<span>
-    <img align="right" src="https://raw.githubusercontent.com/yearn/yearn-sdk/master/.github/media/sdk.png" height="150" />
-</span>
+## 🐚 coquillage.eth
 
-# Yearn SDK Examples
+![homePage](https://user-images.githubusercontent.com/52472445/192144160-413ab3c1-d816-4c39-be3c-3a412d9bcb78.png)
 
-This repository contains a live preview and example usage of the [Yearn SDK](https://github.com/yearn/yearn-sdk)
+## Live Demo
+- https://coquillage-eth.surge.sh/
 
-> Explore this codebase to learn how to start interacting with the Yearn protocol in your own app!
-
-## Live Preview Sandbox
-
-* [**Click here to go to the live preview sandbox**](https://codesandbox.io/s/github/turtlemoji/yearn-sdk-examples/tree/main/)
-
-[![Live Preview Sandbox](https://user-images.githubusercontent.com/7863230/166849609-6d9da91d-9c2c-48d4-afd4-4a053c891724.png)](https://codesandbox.io/s/github/turtlemoji/yearn-sdk-examples/tree/main/)
 
 ## Getting Started with the developer environment
 
-1) `git clone https://github.com/turtlemoji/yearn-sdk-examples.git` to download the latest version
+1) `git clone https://github.com/Bild96/coquillage.eth.git` to download the latest version
 
 1) `yarn install` to install dependencies with yarn
 
