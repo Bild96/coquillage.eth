@@ -3,7 +3,9 @@
 ![homePage](https://user-images.githubusercontent.com/52472445/192144160-413ab3c1-d816-4c39-be3c-3a412d9bcb78.png)
 
 ## Live Demo
+- ipfs://QmaSEQDjnsD1zpmGXdYNZxx74zgVr3A22sfCTaykfiXjgq
 - https://coquillage-eth.surge.sh/
+- https://coquillage.eth.limo/
 
 
 ## Getting Started with the developer environment
