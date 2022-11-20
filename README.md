@@ -12,11 +12,11 @@
 
 1) `git clone https://github.com/Bild96/coquillage.eth.git` to download the latest version
 
-1) `yarn install` to install dependencies with yarn
+2) `yarn install` to install dependencies with yarn
 
-1) [Create an Alchemy account](https://www.alchemy.com/) and put the key in [src/constants.js](./src/constants.js)
+3) [Create an Alchemy account](https://www.alchemy.com/) and put the key in [src/constants.js](./src/constants.js)
 
-1) `yarn start` to run the developer environment
+4) `yarn start` to run the developer environment
 
 ## Core files
 
